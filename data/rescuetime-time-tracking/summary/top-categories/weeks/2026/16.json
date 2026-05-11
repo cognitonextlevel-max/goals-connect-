@@ -1,0 +1,71 @@
+{
+  "2026-04-12": {
+    "General Communication & Scheduling": 1696,
+    "Writing": 1087,
+    "Browsers": 720,
+    "Instant Message": 219,
+    "Email": 151,
+    "Calendars": 86,
+    "General Utilities": 3
+  },
+  "2026-04-13": {
+    "Browsers": 10086,
+    "Instant Message": 2716,
+    "General Communication & Scheduling": 2306,
+    "Writing": 866,
+    "Editing & IDEs": 653,
+    "Calendars": 433,
+    "Email": 218,
+    "General Utilities": 2
+  },
+  "2026-04-14": {},
+  "2026-04-15": {
+    "Writing": 767,
+    "Browsers": 151,
+    "General Communication & Scheduling": 39,
+    "Instant Message": 10,
+    "Calendars": 3,
+    "Email": 1
+  },
+  "2026-04-16": {
+    "Browsers": 11128,
+    "General Communication & Scheduling": 3279,
+    "Writing": 1437,
+    "Instant Message": 1072,
+    "Editing & IDEs": 987,
+    "Email": 704,
+    "Calendars": 297,
+    "Graphic Design": 160,
+    "General Reference & Learning": 151,
+    "General Utilities": 32,
+    "Uncategorized": 6
+  },
+  "2026-04-17": {
+    "Browsers": 4990,
+    "Editing & IDEs": 2735,
+    "Instant Message": 1720,
+    "General Communication & Scheduling": 1445,
+    "Presentation": 734,
+    "Email": 429,
+    "Calendars": 364,
+    "Writing": 215,
+    "General Shopping": 44,
+    "General Utilities": 16,
+    "Internet Utilities": 14,
+    "Uncategorized": 12,
+    "General News & Opinion": 6,
+    "General Design & Composition": 1
+  },
+  "2026-04-18": {
+    "Editing & IDEs": 2676,
+    "Browsers": 876,
+    "General Communication & Scheduling": 238,
+    "Presentation": 101,
+    "Instant Message": 76,
+    "Email": 43,
+    "General Reference & Learning": 34,
+    "General Utilities": 8,
+    "Internet Utilities": 7,
+    "Video": 3
+  }
+}

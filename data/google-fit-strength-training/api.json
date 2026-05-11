@@ -1,0 +1,27 @@
+{
+  "days": "days.json",
+  "months": [
+    "2020.json",
+    "2022.json",
+    "2025.json",
+    "2026.json"
+  ],
+  "weeks": {
+    "2020": [
+      "8.json"
+    ],
+    "2022": [
+      "31.json",
+      "33.json"
+    ],
+    "2025": [
+      "35.json"
+    ],
+    "2026": [
+      "17.json",
+      "18.json",
+      "19.json"
+    ]
+  },
+  "years": "years.json"
+}
