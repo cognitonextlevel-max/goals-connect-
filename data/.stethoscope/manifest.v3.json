@@ -1,10 +1,10 @@
 {
   "format": 3,
-  "generatedAt": "2026-10-11T03:34:23.814Z",
+  "generatedAt": "2026-10-12T03:58:29.287Z",
   "generator": {
     "actionVersion": "1.2.11",
-    "integrationsVersion": "2.4.3",
-    "sourceSha": "9ed26caa10ba98b5a2149c6259f2f922e6ebd177"
+    "integrationsVersion": "2.4.4",
+    "sourceSha": "80419276a3cfe911ae2fbc85dd783696ae230386"
   },
   "adapters": [
     {
